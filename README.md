@@ -23,7 +23,7 @@ This is a project repository for a Jio Saavn music clone, built from scratch usi
 - Enjoy the music: Browse and listen to your favorite music tracks and albums, and manage your playlists.
 
 # Deployment
-The project is hosted on Netlify and can be accessed by visiting the URL: https://[your-site-name].netlify.app/.
+The project is hosted on Netlify and can be accessed by visiting the URL: [https://jiosaavanclone.netlify.app/]
 
 # Note
 Please note that this is only the frontend of the Jio Saavn music clone and does not include any backend functionality. The purpose of this project is to showcase the design and user interface of the Jio Saavn music website.
