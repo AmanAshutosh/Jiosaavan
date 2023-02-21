@@ -1,4 +1,4 @@
-# Jio Saavn Music Clone - Frontend
+# Jio Saavn Music Clone - Frontend.
 This is a project repository for a Jio Saavn music clone, built from scratch using HTML and CSS. The project is a replica of the frontend of the official Jio Saavn music website, showcasing its design and user interface.
 
 # Features
